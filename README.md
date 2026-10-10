@@ -123,20 +123,6 @@ Bachelor of Technology in Computer Science and Engineering (Data Science)
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KChethansai&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KChethansai&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KChethansai&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - **Full-Stack Development:** Building scalable, responsive, production-oriented applications
